@@ -29,6 +29,6 @@ if(mail("tecinfo.fernando@gmail.com", "Cadastro de currículo",$corpoemail,$head
  
 } else{
  
-      echo "<script>alert('Erro ao enviar dados. Por favor, tente diretamente pelo email luizfs_@hotmail.com');</script>";  
+      echo "<script>alert('Erro ao enviar dados. Por favor, tente diretamente pelo email contato@contato.com.br');</script>";  
  
 }
